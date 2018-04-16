@@ -1,0 +1,33 @@
+PODS:
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.0.0)
+  - MQTTClient (0.8.8):
+    - MQTTClient/Core (= 0.8.8)
+  - MQTTClient/Core (0.8.8):
+    - MQTTClient/Manager
+    - MQTTClient/Min
+  - MQTTClient/Manager (0.8.8):
+    - MQTTClient/Min
+  - MQTTClient/Min (0.8.8)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - TesseractOCRiOS (4.0.0)
+
+DEPENDENCIES:
+  - Masonry
+  - MBProgressHUD
+  - MQTTClient
+  - SDWebImage
+  - TesseractOCRiOS
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MQTTClient: f49de7a90edaf48f8965a73b67b0cd47f5b6b81d
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  TesseractOCRiOS: 90638afbe43d082433f2e76b384c7901d23956df
+
+PODFILE CHECKSUM: 5f2813f6cb43e34cb335d3680fac1794af358a35
+
+COCOAPODS: 1.2.1
